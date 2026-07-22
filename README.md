@@ -1,3 +1,61 @@
+
+<!-- ========================================= -->
+<!--        ANIMATED HEADER (TOP)              -->
+<!-- ========================================= -->
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=6,11,20,24,30&text=Danyatha%20Y.K.&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20in%20the%20Making&descAlignY=58&descSize=20"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=Building+Intelligent+Solutions+with+AI;Machine+Learning+Enthusiast;Software+Engineering;Data+Science+%7C+Android+Development;Always+Learning+New+Technologies"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/B.Tech-CSE-7C3AED?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RV%20University-Bangalore-6D28D9?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20to-AI%2FML%20Internships-5B21B6?style=for-the-badge"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<a href="mailto:danyathayk2006@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/danyatha-y-k-596752218/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Danyatha2006">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Danyatha2006&label=Profile%20Views&color=7C3AED&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/Danyatha2006?style=for-the-badge&color=6D28D9&label=Followers"/>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
 ## 👨‍💻 About Me
 
 I'm **Danyatha Y.K.**, a third-year **B.Tech Computer Science & Engineering** student at **RV University**, passionate about **Artificial Intelligence, Machine Learning, Data Science, and Software Engineering**.
