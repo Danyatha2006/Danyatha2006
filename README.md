@@ -55,7 +55,7 @@
 
 ---
 
-## 👨‍💻 About Me
+
 ## 👨‍💻 About Me
 
 I'm **Danyatha Y.K.**, a third-year **B.Tech Computer Science & Engineering** student at **RV University**, passionate about **Artificial Intelligence, Machine Learning, Data Science, and Software Engineering**.
