@@ -11,7 +11,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Building+Intelligent+Solutions+with+AI;Artificial+Intelligence+%26+Machine+Learning;Software+Engineering+Enthusiast;Data+Science+%7C+Android+Development;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=Building+Intelligent+Solutions+with+AI;Software+Engineering+Enthusiast;Artificial+Intelligence+%26+Machine+Learning;Frontend+%26+Android+Development"/>
 
 </div>
 
