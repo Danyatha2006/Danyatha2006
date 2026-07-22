@@ -163,19 +163,11 @@ Currently, I'm exploring **Generative AI, Microsoft Azure AI, MLOps, and Cloud C
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Danyatha2006&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danyatha2006&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Danyatha2006&theme=tokyonight&hide_border=true&border_radius=12"/>
 
 </div>
 
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Danyatha2006&theme=tokyonight&hide_border=true"/>
-
-</div>
+---
 
 ## 📈 Contribution Graph
 
