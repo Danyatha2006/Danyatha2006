@@ -5,15 +5,17 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=6,11,20,24,30&text=Danyatha%20Y.K.&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20in%20the%20Making&descAlignY=58&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,25,30&text=Danyatha%20Y.K.&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20in%20the%20Making&descAlignY=58&descSize=20"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=Building+Intelligent+Solutions+with+AI;Machine+Learning+Enthusiast;Software+Engineering;Data+Science+%7C+Android+Development;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Building+Intelligent+Solutions+with+AI;Artificial+Intelligence+%26+Machine+Learning;Software+Engineering+Enthusiast;Data+Science+%7C+Android+Development;Always+Learning+New+Technologies"/>
 
 </div>
+
+<br>
 
 <div align="center">
 
@@ -49,9 +51,11 @@
 
 <img src="https://komarev.com/ghpvc/?username=Danyatha2006&label=Profile%20Views&color=7C3AED&style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/followers/Danyatha2006?style=for-the-badge&color=6D28D9&label=Followers"/>
+<img src="https://img.shields.io/github/followers/Danyatha2006?style=for-the-badge&label=Followers&color=6D28D9"/>
 
 </div>
+
+---
 
 ---
 
