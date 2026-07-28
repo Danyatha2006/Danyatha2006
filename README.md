@@ -159,23 +159,15 @@ Currently, I'm exploring **Generative AI, Microsoft Azure AI, MLOps, and Cloud C
 - Data Structures
 
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Danyatha2006&theme=tokyonight&hide_border=true&border_radius=12"/>
-
-</div>
-
 ---
 
-## 📈 Contribution Graph
+<!-- 📈 Contribution Graph
 
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Danyatha2006&theme=tokyo-night&hide_border=true"/>
 
-</p>
+</p>-->
 
 
 ## 🎯 Current Focus
